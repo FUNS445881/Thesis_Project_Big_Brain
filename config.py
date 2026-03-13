@@ -2,13 +2,13 @@
 
 # LLM
 # 智谱API
-ZHIPU_API_KEY = "6b24fb599ed1496299e9917ef0dcb4c4.egZDcEBCZC4LUarc"
+ZHIPU_API_KEY = "YOUR OWN API KEY"
 ZHIPU_BASE_URL = "https://open.bigmodel.cn/api/paas/v4/"
 ZHIPU_LLM_MODEL = "glm-4.7-flash"
 ZHIPU_VLM_MODEL = "glm-4.6v-flash"
 
 # 硅基流动API
-SILICONFLOW_API_KEY = "sk-fhppghluvmkqikppmymzcqvwnekjqyfofleputyqosazejgf"
+SILICONFLOW_API_KEY = "YOUR OWN API KEY"
 SILICONFLOW_BASE_URL = "https://api.siliconflow.cn/v1"
 SILICONFLOW_LLM_MODEL = "Qwen/Qwen2.5-7B-Instruct"
 SILICONFLOW_VLM_MODEL = "THUDM/GLM-4.1V-9B-Thinking"
