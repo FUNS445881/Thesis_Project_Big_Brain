@@ -32,7 +32,7 @@ VLM_API_KEY = TARGET_API_KEY
 VLM_API_BASE_URL = TARGET_BASE_URL
 VLM_MODEL = TARGET_VLM_MODEL
 
-MAX_REPLAN_TIMES = 3
+MAX_REPLAN_TIMES = 1
 
 # RAG
 RAG_MODEL = "/home/xiao/.cache/huggingface/hub/models--sentence-transformers--all-mpnet-base-v2/snapshots/e8c3b32edf5434bc2275fc9bab85f82640a19130"
