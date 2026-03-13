@@ -40,6 +40,10 @@ RAG_MODEL = "/home/xiao/.cache/huggingface/hub/models--sentence-transformers--al
 RAG_SIMILARITY_THRESHOLD = 0.5
 HISTORY_PATH = "memory/rag_history.json"
 
+# JUDGE规则调整 cm
+MOVE_ERROR_THRESHOLD = 5.0
+PLACE_ERROR_THRESHOLD = 5.0
+CATCH_ERROR_THRESHOLD = 20.0
 
 # 物体默认长宽高(cm)
 BOX_SIZE = (50, 50, 50)
